@@ -1,0 +1,14 @@
+Date,Type,Category,Party,Description,Amount,GST_Amount,Due_Date,Status
+2026-10-03,Sale,Product Sales,Anand Traders,Invoice 101,250000,45000,2026-10-18,Paid
+2026-10-07,Sale,Product Sales,Bharat Stores,Invoice 102,180000,32400,2026-10-22,Unpaid
+2026-10-12,Sale,Product Sales,Chopra & Sons,Invoice 103,320000,57600,2026-10-27,Unpaid
+2026-10-15,Sale,Product Sales,Anand Traders,Invoice 104,140000,25200,2026-10-30,Paid
+2026-10-05,Purchase,Raw Material,Raj Suppliers,Raw material,200000,36000,2026-10-20,Paid
+2026-10-18,Purchase,Packaging,Metro Packaging,Packaging,90000,16200,2026-11-02,Unpaid
+2026-10-10,Expense,Electricity,Electricity Board,Power bill,28000,0,2026-10-25,Paid
+2026-10-20,Expense,Marketing,Ad Agency,Marketing,65000,11700,2026-11-05,Unpaid
+2026-09-04,Sale,Product Sales,Anand Traders,Invoice 095,300000,54000,2026-09-19,Paid
+2026-09-14,Sale,Product Sales,Bharat Stores,Invoice 096,160000,28800,2026-09-29,Paid
+2026-09-06,Purchase,Raw Material,Raj Suppliers,Raw material,210000,37800,2026-09-21,Paid
+2026-09-11,Expense,Electricity,Electricity Board,Power bill,25000,0,2026-09-26,Paid
+2026-09-20,Expense,Marketing,Ad Agency,Marketing,25000,4500,2026-10-05,Paid

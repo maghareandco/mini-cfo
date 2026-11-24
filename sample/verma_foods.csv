@@ -1,0 +1,8 @@
+Date,Type,Category,Party,Description,Amount,GST_Amount,Due_Date,Status
+2026-10-04,Sale,Product Sales,Mehta Retail,Invoice 201,150000,27000,2026-10-10,Unpaid
+2026-10-12,Sale,Product Sales,Joshi Mart,Invoice 202,60000,10800,2026-10-20,Paid
+2026-10-08,Purchase,Raw Material,Gupta Wholesale,Raw material,140000,25200,2026-11-05,Unpaid
+2026-10-15,Expense,Transport,City Transport,Freight,25000,0,2026-10-25,Paid
+2026-09-05,Sale,Product Sales,Mehta Retail,Invoice 195,180000,32400,2026-09-25,Paid
+2026-09-08,Purchase,Raw Material,Gupta Wholesale,Raw material,120000,21600,2026-09-20,Paid
+2026-09-15,Expense,Transport,City Transport,Freight,20000,0,2026-09-25,Paid
